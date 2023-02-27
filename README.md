@@ -3,8 +3,8 @@
 Data Analyst</h2>, 
 </h1>
 
-<h2>👨‍💻 Software Development Projects:
-<h3> Qlik Sense:</h3>
+<h2>🌐 BI Development Projects:
+<h3>📊 Qlik Sense:</h3>
 </h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
