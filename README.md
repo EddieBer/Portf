@@ -9,8 +9,8 @@ Data Analyst</h2>,
 
 - <b>Online Production Control </b>
   - [ETL Process & App](https://github.com/EddieBer/OnlineProductionControl)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Implementing Statistical & Analytical Metods</b>
+  - [SPC + Process Capability](https://github.com/EddieBer/SPC-Process-Capability) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
