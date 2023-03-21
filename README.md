@@ -17,7 +17,7 @@
 
 [linkedin]: https://www.linkedin.com/in/eddie-berdichever-20891013a
 [gmail]: "recipient@email.com">
-<a href="recipient@email.com"><img src="(https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)"/></a>
+<p><a href="mailto:edwardbal89@gmail.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="width:22px;height:22px;"></a></p>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
