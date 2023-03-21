@@ -17,8 +17,6 @@
 
 [linkedin]: https://www.linkedin.com/in/eddie-berdichever-20891013a
 <[gmail]>: <a href="mailto:myemailaddress@gmail.com"> <[gmail]> </a>
-[gmail]: "recipient@email.com"
-"recipient@email.com">
 
 
 
