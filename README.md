@@ -19,7 +19,7 @@
 [linkedin]: https://www.linkedin.com/in/eddie-berdichever-20891013a
 [gmail]: <a href=mailto:“edwardbal89@gmail.com”>
 <a href=mailto:“disha@uplers.com”>[gmail]</a>
-
+"recipient@email.com">
 
 
 <!--
