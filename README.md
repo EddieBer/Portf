@@ -13,10 +13,12 @@
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- <p>
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[gmail]: "recipient@email.com">
+</p> -->
 
 [linkedin]: https://www.linkedin.com/in/eddie-berdichever-20891013a
-[gmail]: "recipient@email.com">
 <p><a href="mailto:edwardbal89@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="width:23px;height:23px;"></a></p>
 
 <!--
