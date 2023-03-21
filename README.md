@@ -17,7 +17,9 @@
 
 
 [linkedin]: https://www.linkedin.com/in/eddie-berdichever-20891013a
-[gmail]: edwardbal89@gmail.com
+[gmail]: <a href=mailto:“edwardbal89@gmail.com”>
+
+
 
 
 <!--
