@@ -17,7 +17,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/eddie-berdichever-20891013a
-[gmail]: "recipient@email.com">
+[gmail]: "recipient@email.com"
 "recipient@email.com">
 
 
