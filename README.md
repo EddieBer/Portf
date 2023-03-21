@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eddie! <br/><a> BI Developer</a>, <a>Data Analyst</a></h1>
+<h1>Hi, I'm Eddie <br/><a> BI Developer</a>, <a>Data Analyst</a></h1>
 
 <h2>🌐 BI Development Projects:
 <h3>📊 Qlik Sense:</h3>
