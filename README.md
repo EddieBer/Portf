@@ -17,7 +17,7 @@
 
 [linkedin]: https://www.linkedin.com/in/eddie-berdichever-20891013a
 [gmail]: "recipient@email.com">
-<a href="mailto:myemail@site.com?Subject=Some%20subject"><img src="(https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)"/></a>
+<a href="recipient@email.com"><img src="(https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)"/></a>
 
 
 <!--
