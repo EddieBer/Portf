@@ -7,9 +7,9 @@
 - <b>Online Production Control </b>
   - [ETL Process & App](https://github.com/EddieBer/OnlineProductionControl)
 - <b>Implementing Statistical & Analytical Metods</b>
-  - [SPC + Process Capability](https://github.com/EddieBer/SPC-Process-Capability) <b><i></b></i>
-
-
+  - [SPC + Process Capability](https://github.com/EddieBer/SPC-Process-Capability)
+  </b>
+  - [Simulation & optimization](https://github.com/EddieBer/Simulation) <b><i></b></i>
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
