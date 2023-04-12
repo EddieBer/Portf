@@ -10,6 +10,8 @@
   - [SPC + Process Capability](https://github.com/EddieBer/SPC-Process-Capability)
   - [Simulation & Optimization](https://github.com/EddieBer/Simulation) 
   </b>
+- <b>Executive Reporting</b>
+
    <b><i></b></i>
 <h2> Connect with me:</h2>
 
