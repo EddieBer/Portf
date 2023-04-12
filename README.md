@@ -6,7 +6,7 @@
 
 - <b>Online Production Control </b>
   - [ETL Process & App](https://github.com/EddieBer/OnlineProductionControl)
-- <b>Implementing Statistical & Analytical Metods</b>
+- <b>Implementing Statistical & Analytical Methods</b>
   - [SPC + Process Capability](https://github.com/EddieBer/SPC-Process-Capability)
   - [Simulation & optimization](https://github.com/EddieBer/Simulation) 
   </b>
